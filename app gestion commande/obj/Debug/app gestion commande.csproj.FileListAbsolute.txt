@@ -1,0 +1,11 @@
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\bin\Debug\app gestion commande.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app gestion commande.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app_gestion_commande.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app gestion commande.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app_gestion_commande.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app_gestion_commande.gestionClients.resources
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app_gestion_commande.gestionCommande.resources
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\bin\Debug\app gestion commande.exe
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\bin\Debug\app gestion commande.pdb
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app gestion commande.exe
+c:\users\hp\documents\visual studio 2015\Projects\app gestion commande\app gestion commande\obj\Debug\app gestion commande.pdb

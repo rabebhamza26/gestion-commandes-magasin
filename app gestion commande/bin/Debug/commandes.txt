@@ -1,0 +1,22 @@
+Numéro de commande: 123456
+Client : rabeb
+Date : 22/01/2025
+Produit demandé :
+tel 80 ;
+pc 100 ;
+laptop 200 ;
+
+Numéro de commande: 147852
+Client : ameni
+Date : 23/01/2025
+Produit demandé :
+produit1 100 ;
+produit2 80 ;
+produit3 50 ;
+
+Numéro de commande: 14789
+Client : nour
+Date : 24/01/2025
+Produit demandé :
+pomme 20 ;
+
